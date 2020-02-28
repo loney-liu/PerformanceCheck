@@ -2,7 +2,7 @@
 
 ## Requirements
 - Python 3
-- pythonping, PyYmal
+- pythonping, PyYaml
 - Put server name and dns server in set.yml
 
 ## Tested
