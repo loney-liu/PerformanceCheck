@@ -9,4 +9,10 @@
 on MacOS only
 
 ## How to run
-sudo python checkS3.py
+
+*Edit setDNS.yml to add more dns servers*
+sudo python chkS3_dns.py
+
+
+*Edit setIP.yml to add more cloudfront server ip*
+sudo python chkS3_ip.py
