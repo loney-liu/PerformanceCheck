@@ -1,3 +1,7 @@
+wildcard-ga-cloud.shotgunstudio.com:
+  114dns: 114.114.114.114
+  "Baidu Public DNS": 180.76.76.76
+  "Google Public DNS": 8.8.8.8
 sg-media-tokyo.s3-accelerate.amazonaws.com:
   114dns: 114.114.114.114
   "Baidu Public DNS": 180.76.76.76
